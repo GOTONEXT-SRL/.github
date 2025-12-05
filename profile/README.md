@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/LogoBianco.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/LogoNero.png">
-  <img alt="GOTONEXT" src="assets/LogoNero.png" width="300">
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/LogoBianco.png">
+  <source media="(prefers-color-scheme: light)" srcset="../assets/LogoNero.png">
+  <img alt="GOTONEXT" src="../assets/LogoNero.png" width="300">
 </picture>
 
 # Sviluppiamo il tuo successo, passo dopo passo
@@ -139,9 +139,9 @@ Siamo sempre alla ricerca di talenti appassionati di tecnologia SAP e integrazio
 ---
 
 <p align="center">
-  <img src="assets/SAP-SilverPartner.jpg" alt="SAP Silver Partner" height="80">
+  <img src="../assets/SAP-SilverPartner.jpg" alt="SAP Silver Partner" height="80">
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/ISO-9001.png" alt="ISO 9001" height="60">
+  <img src="../assets/ISO-9001.png" alt="ISO 9001" height="60">
 </p>
 
 <p align="center">
